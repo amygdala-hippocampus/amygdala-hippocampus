@@ -39,7 +39,7 @@
       <sup>𝚠𝚎 𝚠𝚘𝚗'𝚝 𝚋𝚎 𝚏𝚛𝚒𝚎𝚗𝚍𝚜 𝚒𝚏 𝚢𝚘𝚞'𝚛𝚎 <strong>< 𝟷𝟾</strong></sup><br>
       <sup><strong>𝚌+𝚑</strong> 𝚒𝚜 𝚏𝚒𝚗𝚎 𝚒𝚏 𝙸'𝚖 𝚊𝚕𝚘𝚗𝚎</sup><br>
       <sup>𝚖𝚘𝚜𝚝𝚕𝚢 𝚘𝚏𝚏𝚝𝚊𝚋/𝙰𝙵𝙺 𝚜𝚘 <strong>𝚆𝟸𝙸</strong></sup><br>
-      <sup>𝙸 <strong>𝚍𝚘𝚗'𝚝 𝚑𝚒𝚍𝚎</strong> 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚛𝚎𝚊𝚜𝚘𝚗; 𝚗𝚘 𝚋𝚕𝚘𝚌𝚔𝚎𝚍 𝚙𝚕𝚊𝚢𝚎𝚛𝚜</sup><br>
+      <sup>𝙸 <strong>𝚍𝚘𝚗'𝚝 𝚋𝚕𝚘𝚌𝚔</strong> 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚛𝚎𝚊𝚜𝚘𝚗; 𝚗𝚘 𝚑𝚒𝚍𝚍𝚎𝚗 𝚙𝚕𝚊𝚢𝚎𝚛𝚜</sup><br>
         <sup>𝙸'𝚖 𝚜𝚙𝚎𝚎𝚌𝚑 𝚝𝚑𝚎𝚛𝚊𝚙𝚒𝚜𝚝-𝚍𝚎𝚏𝚎𝚌𝚝𝚘𝚕𝚘𝚐𝚒𝚜𝚝</sup><br>
       <sup><a href="https://en.pronouns.page/@chinchillidae">𝚙𝚛𝚘𝚗𝚘𝚞𝚗𝚜 𝚙𝚊𝚐𝚎 𝚒𝚗 𝚎𝚗𝚐</a> 𝚊𝚗𝚍 𝚊 <a href="https://ru.pronouns.page/@chinchillidae">𝚛𝚞𝚜𝚜𝚒𝚊𝚗 𝚘𝚗𝚎</a></sup>
     </p>
