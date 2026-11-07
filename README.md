@@ -24,8 +24,8 @@
 </p> 
 <p align="center"
 <br><sup> 𝟶𝟻/𝟶𝟻/𝟸𝟶𝟶𝟸</sup> <img width="30" src='https://github.com/amygdala-hippocampal/amygdala-hippocampal/blob/main/%D1%81%D0%BA%D1%80%D0%B5%D0%BF%D0%BA%D0%B0.png?raw=true'><sup>𝚜𝚑𝚎/𝚑𝚎𝚛</sup><img width="21" src='https://github.com/amygdala-hippocampal/amygdala-hippocampal/blob/main/%D0%BF%D0%B8%D0%BD.png?raw=true'><sup>𝚛𝚞𝚜𝚜𝚒𝚊𝚗</sup>
-<br> <sup> 𝙸𝙽𝚃𝙹 <img width="15" src='https://github.com/amygdala-hippocampal/amygdala-hippocampal/blob/main/%D1%87%D0%B5%D0%BC%20%D1%8F%20%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%81%D1%8C.png?raw=true'>  𝚜𝚙𝟻𝚠𝟺 (𝚜𝚙𝟻𝟺𝟿) <img width="18" src='https://github.com/amygdala-hippocampal/amygdala-hippocampal/blob/main/%D0%BB%D0%B8%D1%81%D1%82.png?raw=true'> 𝚙𝚑𝚕𝚎𝚐𝚖𝚊𝚝𝚒𝚌
-<br> 𝚗𝚘 𝙳𝙽𝙸 <img width="15" src='https://github.com/amygdala-hippocampal/amygdala-hippocampal/blob/main/%D0%BE%D0%BF%20%D0%B5%D1%89%D0%B5%20%D1%85%D1%83%D0%B9%D0%BD%D1%8F.png?raw=true'> 𝚗𝚘𝚝 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚏𝚛𝚒𝚎𝚗𝚍𝚜
+<br> <sup> 𝙸𝙽𝚃𝙹 <img width="15" src='https://github.com/amygdala-hippocampal/amygdala-hippocampal/blob/main/%D1%87%D0%B5%D0%BC%20%D1%8F%20%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%81%D1%8C.png?raw=true'>  𝚜𝚙𝟻𝚠𝟺 (𝚜𝚙𝟻𝟺𝟿) <img width="18" src='https://github.com/amygdala-hippocampal/amygdala-hippocampal/blob/main/%D0%BB%D0%B8%D1%81%D1%82.png?raw=true'> 𝙸𝙻𝙸 <img width="18" src='https://github.com/amygdala-hippocampus/amygdala-hippocampus/blob/main/%D0%BA%D1%82%D0%BE%20%D0%B1%D1%8B%20%D0%BC%D0%BE%D0%B3%20%D0%BF%D0%BE%D0%B4%D1%83%D0%BC%D0%B0%D1%82%D1%8C%20%D0%BF%D0%B8%D0%BD.png?raw=true'> 𝙵𝙻𝙴𝚅
+<br>  𝚙𝚑𝚕𝚎𝚐𝚖𝚊𝚝𝚒𝚌 <img width="17" src='https://github.com/amygdala-hippocampus/amygdala-hippocampus/blob/main/%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0.png?raw=true'> 𝚗𝚘 𝙳𝙽𝙸 <img width="17" src='https://github.com/amygdala-hippocampus/amygdala-hippocampus/blob/main/%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D1%86%D0%B0.png?raw=true'> 𝚝𝚊𝚔𝚎𝚗
 </p> 
 <p align="center"
 <br>┗━━━━━━━━━⊹━━━━━━━━━┛
